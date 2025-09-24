@@ -1,5 +1,7 @@
 # Installing RxDock
 
+Runs well in Ubuntu 20.04 focal (on WSL)
+
 RxDock uses [Meson](https://mesonbuild.com/) for building.
 
 Generic instructions: you'll need Meson and Ninja. Other dependencies
