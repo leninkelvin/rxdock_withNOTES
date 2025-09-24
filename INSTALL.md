@@ -27,6 +27,7 @@ directory. Then
 
 ```
 $ cd /wherever/your/rxdock/directory/is
+$ git checkout patched-rdock
 $ meson -Dbuildtype=release -Dtests=true builddir
 $ ninja -C builddir
 $ ninja -C builddir test
