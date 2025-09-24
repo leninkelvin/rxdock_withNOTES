@@ -28,7 +28,8 @@ Download a release, a snapshot, or clone the repository and `cd` into the
 directory. Then
 
 ```
-$ cd /wherever/your/rxdock/directory/is
+$ git clone https://gitlab.com/rxdock/rxdock.git
+$ cd /rxdock
 $ git checkout patched-rdock
 $ meson -Dbuildtype=release -Dtests=true builddir
 $ ninja -C builddir
