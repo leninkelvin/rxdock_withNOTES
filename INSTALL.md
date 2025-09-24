@@ -1,6 +1,6 @@
 # Installing RxDock
 
-* * Runs well in Ubuntu 20.04 focal (on WSL)
+*Runs well in Ubuntu 20.04 focal (on WSL)*
 
 RxDock uses [Meson](https://mesonbuild.com/) for building.
 
