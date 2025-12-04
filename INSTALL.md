@@ -34,7 +34,7 @@ directory. Then
 
 ```
 $ git clone https://gitlab.com/rxdock/rxdock.git
-$ cd /rxdock
+$ cd rxdock
 $ git checkout patched-rdock
 $ meson -Dbuildtype=release -Dtests=true builddir
 $ ninja -C builddir
