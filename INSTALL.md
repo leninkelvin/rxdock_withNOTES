@@ -26,7 +26,8 @@ on macOS) are supported.
 
 I RECOMMEND YOU INSTALL THE FOLLOWING DEPENDENCIES
 ```
-sudo apt install git libeigen3-dev
+sudo apt install libeigen3-dev libfmt-dev libeigen3-dev libpcg-cpp-dev googletest git meson build-essential cmake pkg-config
+
 ```
 
 Download a release, a snapshot, or clone the repository and `cd` into the
