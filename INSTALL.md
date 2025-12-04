@@ -24,6 +24,11 @@ C++11 support in the compiler is mandatory, so
 ([Xcode 5+](https://developer.apple.com/library/archive/releasenotes/DeveloperTools/RN-Xcode/Chapters/Introduction.html#//apple_ref/doc/uid/TP40001051-CH1-SW1)
 on macOS) are supported.
 
+I RECOMMEND YOU INSTALL THE FOLLOWING DEPENDENCIES
+```
+sudo apt install git libeigen3-dev
+```
+
 Download a release, a snapshot, or clone the repository and `cd` into the
 directory. Then
 
@@ -40,7 +45,7 @@ At the moment installation is only supported on Unix-like operating systems.
 Either use `sudo` to do `ninja install` such as
 
 ```
-$ sudo ninja -C builddir install
+sudo ninja -C builddir install
 ```
 
 or `su` to root and then run `ninja install` like
