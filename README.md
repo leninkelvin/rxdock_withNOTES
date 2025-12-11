@@ -1,3 +1,9 @@
+
+**This is a unofficial, unmantained, branch**
+Its purpose is to document a few modification to the official instructions for compiling and running RxDock.
+INSTALL.md has been modified to reflect what instructions do work in my system
+I will be adding a RUNNING.md to also reflect how to run it
+
 # RxDock: a fast, versatile, and open-source program for docking ligands to proteins and nucleic acids
 
 ![RxDock Logo](docs/_static/logo.png)
